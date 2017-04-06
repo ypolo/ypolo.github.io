@@ -1,0 +1,128 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.way4.com" resolutions="1x" timestamp="1491514014973">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4176326319" ref="index"/>
+    <file name="index.css" crc="4109081182" ref="index"/>
+    <file name="iefonts_index.css" crc="3832891135" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u987.php" crc="4287980840" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-281328x135.svg" crc="4249503391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 281328x135_poster_.png" crc="331369970" ref="index"/>
+    <file name="home1.jpg" crc="288044385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="home2.png" crc="4080100536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home3.png" crc="3879523747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home4.jpg" crc="3822370221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="quienes-somos.jpg" crc="4059584319" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-85417x63.svg" crc="177195657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 85417x63_poster_.png" crc="4256471167" ref="index"/>
+    <file name="pasted-svg-58745x68.svg" crc="4018596563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 58745x68_poster_.png" crc="3852800816" ref="index"/>
+    <file name="pasted-svg-64773x64.svg" crc="4150729975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 64773x64_poster_.png" crc="3787579963" ref="index"/>
+    <file name="pasted-svg-53058x89.svg" crc="156187572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 53058x89_poster_.png" crc="3831429502" ref="index"/>
+    <file name="pasted-svg-50733x73.svg" crc="285138387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 50733x73_poster_.png" crc="3935606589" ref="index"/>
+    <file name="pasted-svg-370478x172.svg" crc="3923907922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 370478x172_poster_.png" crc="14983179" ref="index"/>
+    <file name="pasted-svg-343618x204.svg" crc="497972723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 343618x204_poster_.png" crc="414030532" ref="index"/>
+    <file name="way4-building.jpg" crc="22570526" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="way4-sport.jpg" crc="72768409" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strategic-unit.jpg" crc="477663484" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-111348x38.svg" crc="39283027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 111348x38_poster_.png" crc="73550529" ref="index"/>
+    <file name="pasted-svg-109481x38.svg" crc="270363611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 109481x38_poster_.png" crc="498270360" ref="index"/>
+    <file name="pasted-svg-126579x75.svg" crc="4099969544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 126579x75_poster_.png" crc="351433999" ref="index"/>
+    <file name="pasted-svg-344263x152.svg" crc="3895159899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 344263x152_poster_.png" crc="333779008" ref="index"/>
+    <file name="pasted-svg-360598x132.svg" crc="3955834634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 360598x132_poster_.png" crc="234467915" ref="index"/>
+    <file name="g100.jpg" crc="3885092573" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="assee.jpg" crc="3866531265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-1170953x627.svg" crc="238678175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1170953x627_poster_.png" crc="4200396570" ref="index"/>
+    <file name="pasted-svg-124697x86.svg" crc="310574167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 124697x86_poster_.png" crc="291197110" ref="index"/>
+    <file name="pasted-svg-286442x137.svg" crc="4050887500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 286442x137_poster_.png" crc="3851206858" ref="index"/>
+    <file name="pasted-svg-16567x33.svg" crc="441571375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 16567x33_poster_.png" crc="178401373" ref="index"/>
+  </folder>
+  <file name="index.html" crc="308943249" seo="true" mt="1491512926448" redirect="true"/>
+</manifest>
